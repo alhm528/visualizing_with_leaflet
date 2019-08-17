@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  background: white;
+  border-radius: 5px;
+  padding: 20px 20px;
+}
+
+.legend i {
+  width: 14px;
+  height: 14px;
+  float: left;
+}
